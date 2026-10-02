@@ -1,1 +1,3 @@
 # VezbaKonflikti
+
+Jedna recenica
